@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+/mysql_connect.php
+/oauth/callback/libs/
+/fonts/
+/img/
+/secrets.php
